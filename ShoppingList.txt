@@ -1,1 +1,8 @@
-Hello humans!
+Shopping List:
+
+Apples
+Oranges
+Bananas
+Cherries
+Carrots
+Cereal
